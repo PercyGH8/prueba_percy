@@ -23,7 +23,7 @@ Visita [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) para ver má
 
 Mira también el [otro documento](Ejercicio1.md) del repositorio.
 
-![Imagen de ejemplo](/repositorios/prueba_percy/imagess/11.jpeg)
+![Imagen de ejemplo](imagess/11.jpeg)
 
 | Comando    | Función                    |
 |------------|----------------------------|
